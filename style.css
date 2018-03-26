@@ -54,6 +54,7 @@ header{
 .forgot_account{
     color: #9aa3be;
     font-size: 20px;
+    text-decoration: none;
 }
 
 .log_in{
