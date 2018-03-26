@@ -4,7 +4,7 @@ body{
 }
 header{
     background: #3c5a98;
-    height: 15vh;
+    height: 30%;
 }
 .main_bar {
 	max-width: 1300px;
@@ -17,10 +17,10 @@ header{
 .logo_facebook{
    font-family: sans-serif;
    font-size: 40px;
-	margin-top: 5px;
 	color: #ffffff;
     text-decoration: none;
     font-weight: bold; 
+    
 }
 
 .login_form{
@@ -170,7 +170,7 @@ show_more_language{
 	cursor: pointer;
 }
 .footer_info{
-   width: 1197px;
+   width: 1167px;
 }
 
 .info{
@@ -189,7 +189,4 @@ show_more_language{
     color: #313131;
 	display: block;
 	margin-top: 15px;
-}
-a{
-    font-size: 14px;
 }
