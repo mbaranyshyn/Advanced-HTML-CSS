@@ -7,7 +7,7 @@ header{
     height: 30%;
 }
 .main_bar {
-	max-width: 1300px;
+	max-width: 1030px;
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
@@ -170,7 +170,7 @@ show_more_language{
 	cursor: pointer;
 }
 .footer_info{
-   width: 1167px;
+   width: 1000px;
 }
 
 .info{
@@ -181,7 +181,7 @@ show_more_language{
 }
 .line_in_second_block{
     color: #dfe4ea;
-    width: 1178px;
+    width: 930px;
     height: 1px;
     
 }
