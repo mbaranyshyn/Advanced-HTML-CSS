@@ -16,7 +16,7 @@ header{
 
 .logo_facebook{
    font-family: sans-serif;
-   font-size: 50px;
+   font-size: 40px;
 	margin-top: 5px;
 	color: #ffffff;
     text-decoration: none;
@@ -24,7 +24,7 @@ header{
 }
 
 .login_form{
-	width: 635px;
+	width: 480px;
 	color: #fff;
 	justify-content:center;
 	margin-top: 15px;
@@ -41,13 +41,13 @@ header{
 	flex-direction: column;   
 }
 .password_input{
-   width: 250px;
-   height: 30px;
+   width: 150px;
+   height: 20px;
    font-size: 20px;
 }  
 .email_input{
-   width: 250px;
-   height: 30px;
+   width: 150px;
+   height: 20px;
    font-size: 20px;
    margin-right:24px; 
 }  
@@ -60,9 +60,9 @@ header{
     background: #3259aa;
     color: white;
     width: 120px;
-    height: 40px;
+    height: 31px;
 	border: 1px solid #29487D;
-	margin-top:  21px;
+	margin-top:  19px;
     margin-right: 10px;
     font-weight: bold;
     font-size: 15px;
@@ -191,5 +191,5 @@ show_more_language{
 	margin-top: 15px;
 }
 a{
-    font-size: 18px;
+    font-size: 14px;
 }
